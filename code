@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Fix the maximum size to 100
 #define MAX_QUEUE_SIZE 100
 typedef struct ShedulerP {
 	int p_no;
